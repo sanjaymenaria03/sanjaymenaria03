@@ -1,17 +1,34 @@
 ### Hi there 👋 It's Sanjay Menaria 🙌
 
+<img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/oexYQjEivsMd9O9aaym1_ISXiQ4HsUboNK7umcc-OPY/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2VmbWNq/RnJEbTRSUTRqOU41/aS9zb3VyY2UuZ2lm.gif">
+
+
 <!--
 - 🔭 I’m currently working on ...
 -->
+
+
 - 🌱 I’m currently learning FLutter and Java (DSA)
+
+
 - 👯 I’m looking to collaborate on some beginner friendly open source projects
 <!--
 - 🤔 I’m looking for help with ...
 -->
+
+
 - 💬 Ask me about cross platform app dev
+
+
 - 📫 How to reach me: sanjaymenaria03@gmail.com
+
+
 - 😄 Pronouns: he/him
+
+
 - ⚡ Fun fact: everything is fun just after connecting with me ;)
+
+
 - 💞️ Interests: Listening songs, reaching out to others, helping and playing games. 
 
 
