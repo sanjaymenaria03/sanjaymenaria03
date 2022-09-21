@@ -39,3 +39,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/mightysanjay/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T03BJ0W1R1U/C03BT0PFB36/rimeto_profile/U03C38UABEV)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sanjaymenaria03)
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaymenaria03&show_icons=true&locale=en" alt="sanjaymenaria03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymenaria03&" alt="sanjaymenaria03" /></p>
+
