@@ -66,5 +66,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaymenaria03&show_icons=true&locale=en" alt="sanjaymenaria03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaymenaria03&" alt="sanjaymenaria03" /></p>
 
