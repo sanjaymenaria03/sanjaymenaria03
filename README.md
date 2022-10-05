@@ -63,6 +63,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaymenaria03" alt="sanjaymenaria03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaymenaria03" alt="sanjaymenaria03"/></p>
 
 
