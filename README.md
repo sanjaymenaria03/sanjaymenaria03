@@ -1,4 +1,8 @@
  ### Hi there 👋 It's Sanjay Menaria 🙌
+ 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/78106056/185381072-c6809815-5a7a-4521-99be-95e4d1efa2b1.gif"> 
+ 
+ 
 <img align="right" alt="Coding" width="300" src="https://imgs.search.brave.com/oexYQjEivsMd9O9aaym1_ISXiQ4HsUboNK7umcc-OPY/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL2VmbWNq/RnJEbTRSUTRqOU41/aS9zb3VyY2UuZ2lm.gif">
 
 
