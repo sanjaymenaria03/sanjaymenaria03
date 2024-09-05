@@ -5,7 +5,8 @@
 
 #
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/960fbeec-acd4-470c-91f1-2407b6cda27f" alt="devops-animated-icon" width="400" height="300" />
+<img src="https://github.com/user-attachments/assets/d8e746e7-0e5e-4a0e-9529-d5501b5dfca8" alt="devops-animated-icon" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/960fbeec-acd4-470c-91f1-2407b6cda27f" alt="devops-animated-icon" width="400" height="400" />
 </p>
 
 #
@@ -23,7 +24,7 @@
 
 - 🌥  I am always eager to learn and tackle new challenges in the DevOps and cloud engineering space, aiming to contribute to innovative and efficient technology solutions.
 </p>
-<p align="center">
+<div align="center">
  
 ## Tech Stack
 <div align="center">
@@ -43,7 +44,7 @@
 	<code><img width="49" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
-## connect with me 
+## Connect with me 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SanjayM67502055)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-menaria-121b9a200/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sanjaymenaria03/)
@@ -53,4 +54,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sanjaymenaria03&theme=dark&background=000000)](https://git.io/streak-stats)
 
-</p>
+</div>
